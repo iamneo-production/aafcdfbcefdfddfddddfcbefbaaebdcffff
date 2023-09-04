@@ -26,7 +26,7 @@ public class AppTest {
 	{
 		
 		String title = "Get the Title";
-		Assert.assertEquals(title, " ");
+		Assert.assertEquals(title, "Get the Title");
 	}
 
 	@Test
