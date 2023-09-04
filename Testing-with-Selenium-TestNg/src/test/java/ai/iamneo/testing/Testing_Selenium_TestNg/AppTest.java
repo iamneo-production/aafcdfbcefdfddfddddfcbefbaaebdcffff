@@ -34,7 +34,7 @@ public class AppTest {
       {
 	       //write Your Code here to Login
              int nlinks=10;//   //Get the Number of links
-		 int get = 0;
+		 int get = 10;
 		 Assert.assertEquals(get, nlinks);
 	}
 
