@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 2.424 s <<< FAILURE! - in TestSuite
-ai.iamneo.testing.Testing_Selenium_TestNg.AppTest.testcase_1  Time elapsed: 0.004 s  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 2.621 s <<< FAILURE! - in TestSuite
+ai.iamneo.testing.Testing_Selenium_TestNg.AppTest.testcase_1  Time elapsed: 0.003 s  <<< FAILURE!
 java.lang.AssertionError: expected [ ] but found [Get the Title]
 	at ai.iamneo.testing.Testing_Selenium_TestNg.AppTest.testcase_1(AppTest.java:29)
 
